@@ -41,7 +41,7 @@
 
 
 
-class Solution {
+class Solution2 {
     public TreeNode mergeTrees(TreeNode root1, TreeNode root2) {
 
 

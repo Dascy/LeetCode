@@ -50,7 +50,7 @@
  *     }
  * }
  */
-class Solution {
+class Solution4 {
 
 
 

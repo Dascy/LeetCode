@@ -59,7 +59,7 @@ class Node {
 
 import java.util.List;
 
-class Solution {
+class Solution1 {
     public int maxDepth(Node root) {
         if (root==null){
             return 0;
