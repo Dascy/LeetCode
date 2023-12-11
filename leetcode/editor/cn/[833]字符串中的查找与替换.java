@@ -72,7 +72,7 @@ import java.util.List;
 //leetcode submit region begin(Prohibit modification and deletion)
 
 
-    class Solution {
+    class Solutions {
         public String findReplaceString(String s, int[] indices, String[] sources, String[] targets) {
             int n = s.length(), m = indices.length;
 

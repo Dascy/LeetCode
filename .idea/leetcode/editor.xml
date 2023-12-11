@@ -14,6 +14,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1631]最小体力消耗路径.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1631]最小体力消耗路径.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1631" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1631]最小体力消耗路径.java" />
+              <option name="titleSlug" value="path-with-minimum-effort" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2236]判断根结点是否等于子结点之和.java">
           <value>
             <LeetcodeEditor>
@@ -22,6 +33,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2236]判断根结点是否等于子结点之和.java" />
               <option name="titleSlug" value="root-equals-sum-of-children" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2560]打家劫舍 IV.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2560]打家劫舍 IV.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2560" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2560]打家劫舍 IV.java" />
+              <option name="titleSlug" value="house-robber-iv" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2646]最小化旅行的价格总和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2646]最小化旅行的价格总和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2646" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2646]最小化旅行的价格总和.java" />
+              <option name="titleSlug" value="minimize-the-total-price-of-the-trips" />
             </LeetcodeEditor>
           </value>
         </entry>
