@@ -56,7 +56,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution001 {
         int[][] dirs = {{-1, 0}, {1, 0}, {0, -1}, {0, 1}};
 
         public int minimumEffortPath(int[][] heights) {
