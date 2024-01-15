@@ -65,7 +65,7 @@ class Solution2024011501 {
 
     public static void main(String[] args) {
         ListNode listNode = new ListNode(1, new ListNode(1, new ListNode(1, new ListNode(2, new ListNode(3)))));
-        new Solution().deleteDuplicates(listNode);
+        new Solution2024011501().deleteDuplicates(listNode);
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
