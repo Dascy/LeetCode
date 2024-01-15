@@ -8,7 +8,6 @@
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/[1631]最小体力消耗路径.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1631]最小体力消耗路径.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -98,7 +97,7 @@
       <workItem from="1701841541910" duration="403000" />
       <workItem from="1702259716962" duration="3867000" />
       <workItem from="1705037470968" duration="1269000" />
-      <workItem from="1705091270937" duration="5061000" />
+      <workItem from="1705091270937" duration="13182000" />
     </task>
     <task id="LOCAL-00001" summary="「每日一题」合并二叉树">
       <option name="closed" value="true" />
@@ -148,7 +147,23 @@
       <option name="project" value="LOCAL" />
       <updated>1705038719197</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1705110532659</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1705110532659</updated>
+    </task>
+    <task id="LOCAL-00008" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1705110564688</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1705110564688</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
