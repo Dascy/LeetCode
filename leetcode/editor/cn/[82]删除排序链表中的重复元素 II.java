@@ -43,7 +43,7 @@ import java.util.*;
  * ListNode(int val, ListNode next) { this.val = val; this.next = next; }
  * }
  */
-class Solution {
+class Solution2024011501 {
     public ListNode deleteDuplicates(ListNode head) {
         if (head == null || head.next == null) {
             return head;
