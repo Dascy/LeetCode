@@ -41,7 +41,7 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution2024011606 {
 
     public int jump01(int[] nums) {
         int position=nums.length-1;
