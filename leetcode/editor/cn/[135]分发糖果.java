@@ -43,7 +43,7 @@
 import java.util.Arrays;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution2024011705{
     public int candy01(int[] ratings) {
         int n = ratings.length;
         int[] arr =new int[n];
