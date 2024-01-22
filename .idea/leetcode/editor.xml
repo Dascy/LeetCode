@@ -91,6 +91,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[151]反转字符串中的单词.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[151]反转字符串中的单词.md" />
+              <option name="frontendQuestionId" value="leetcode.cn151" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[151]反转字符串中的单词.java" />
+              <option name="titleSlug" value="reverse-words-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[160]相交链表.java">
           <value>
             <LeetcodeEditor>
@@ -245,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2788]按分隔符拆分字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2788]按分隔符拆分字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2788" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2788]按分隔符拆分字符串.java" />
+              <option name="titleSlug" value="split-strings-by-separator" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java">
           <value>
             <LeetcodeEditor>
@@ -253,6 +275,28 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[27]移除元素.java" />
               <option name="titleSlug" value="remove-element" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2809]使数组和小于等于 x 的最少时间.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2809]使数组和小于等于 x 的最少时间.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2809" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2809]使数组和小于等于 x 的最少时间.java" />
+              <option name="titleSlug" value="minimum-time-to-make-array-sum-at-most-x" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[28]找出字符串中第一个匹配项的下标.md" />
+              <option name="frontendQuestionId" value="leetcode.cn28" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java" />
+              <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -275,6 +319,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.java" />
               <option name="titleSlug" value="insert-delete-getrandom-o1" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[410]分割数组的最大值.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[410]分割数组的最大值.md" />
+              <option name="frontendQuestionId" value="leetcode.cn410" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[410]分割数组的最大值.java" />
+              <option name="titleSlug" value="split-array-largest-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
