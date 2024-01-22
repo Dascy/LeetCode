@@ -44,7 +44,7 @@
 import java.util.Arrays;
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution {
+class Solution20250121daily {
 
     public int splitArray(int[] nums, int k) {
         int left =0,right=0;
