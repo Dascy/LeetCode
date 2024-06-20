@@ -212,6 +212,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2288]价格减免.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2288]价格减免.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2288" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2288]价格减免.java" />
+              <option name="titleSlug" value="apply-discount-to-prices" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[238]除自身以外数组的乘积.java">
           <value>
             <LeetcodeEditor>
@@ -256,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2713]矩阵中严格递增的单元格数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2713]矩阵中严格递增的单元格数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2713" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2713]矩阵中严格递增的单元格数.java" />
+              <option name="titleSlug" value="maximum-strictly-increasing-cells-in-a-matrix" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2744]最大字符串配对数目.java">
           <value>
             <LeetcodeEditor>
@@ -264,6 +286,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2744]最大字符串配对数目.java" />
               <option name="titleSlug" value="find-maximum-number-of-string-pairs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2748]美丽下标对的数目.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2748]美丽下标对的数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2748" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2748]美丽下标对的数目.java" />
+              <option name="titleSlug" value="number-of-beautiful-pairs" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -440,6 +473,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[670]最大交换.java" />
               <option name="titleSlug" value="maximum-swap" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[6]Z 字形变换.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[6]Z 字形变换.md" />
+              <option name="frontendQuestionId" value="leetcode.cn6" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[6]Z 字形变换.java" />
+              <option name="titleSlug" value="zigzag-conversion" />
             </LeetcodeEditor>
           </value>
         </entry>

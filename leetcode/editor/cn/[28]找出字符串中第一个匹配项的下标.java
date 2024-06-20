@@ -33,12 +33,25 @@
 
 
 //leetcode submit region begin(Prohibit modification and deletion)
-class Solution2024 {
+class Solution20240619 {
     public int strStr(String haystack, String needle) {
-
-
-
-        return 0;
+        int m = haystack.length();
+        int n = needle.length();
+        if (n>m){
+            return  -1;
+        }
+        for (int i = 0; i+n < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (haystack.charAt(i+j)==needle.charAt(j)){
+                    if (j==n-1){
+                        return i;
+                    }
+                }else {
+                    break;
+                }
+            }
+        }
+        return -1;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
