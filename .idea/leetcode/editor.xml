@@ -278,6 +278,28 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2734]执行子串操作后的字典序最小字符串.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2734]执行子串操作后的字典序最小字符串.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2734" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2734]执行子串操作后的字典序最小字符串.java" />
+              <option name="titleSlug" value="lexicographically-smallest-string-after-substring-operation" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2741]特别的排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2741]特别的排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2741" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2741]特别的排列.java" />
+              <option name="titleSlug" value="special-permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2744]最大字符串配对数目.java">
           <value>
             <LeetcodeEditor>
@@ -418,6 +440,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[522]最长特殊序列 II.java" />
               <option name="titleSlug" value="longest-uncommon-subsequence-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[526]优美的排列.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[526]优美的排列.md" />
+              <option name="frontendQuestionId" value="leetcode.cn526" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[526]优美的排列.java" />
+              <option name="titleSlug" value="beautiful-arrangement" />
             </LeetcodeEditor>
           </value>
         </entry>
