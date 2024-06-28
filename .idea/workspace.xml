@@ -5,26 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a6f508-69bc-4d4e-94ca-03ff0af6c6a9" name="Changes" comment="【每日一题】 update">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2734]执行子串操作后的字典序最小字符串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2734]执行子串操作后的字典序最小字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2741]特别的排列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[526]优美的排列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution20240619.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SolutionDaily2024061803.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SolutionDaily2024061901.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/SolutionDaily2024062001.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2713]矩阵中严格递增的单元格数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2734]执行子串操作后的字典序最小字符串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2741]特别的排列.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2748]美丽下标对的数目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[526]优美的排列.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/Solution.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/Solution2024.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +117,8 @@
       <workItem from="1718671900342" duration="6032000" />
       <workItem from="1718779676535" duration="4917000" />
       <workItem from="1718850156003" duration="2136000" />
-      <workItem from="1719384991564" duration="7980000" />
+      <workItem from="1719384991564" duration="8059000" />
+      <workItem from="1719503335565" duration="3756000" />
     </task>
     <task id="LOCAL-00001" summary="「每日一题」合并二叉树">
       <option name="closed" value="true" />
@@ -312,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718863083253</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1719491753119</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1719491753119</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
