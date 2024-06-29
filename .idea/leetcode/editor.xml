@@ -267,6 +267,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2710]移除字符串中的尾随零.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2710]移除字符串中的尾随零.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2710" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2710]移除字符串中的尾随零.java" />
+              <option name="titleSlug" value="remove-trailing-zeros-from-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2713]矩阵中严格递增的单元格数.java">
           <value>
             <LeetcodeEditor>
@@ -297,6 +308,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2741]特别的排列.java" />
               <option name="titleSlug" value="special-permutations" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2742]给墙壁刷油漆.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2742]给墙壁刷油漆.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2742" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2742]给墙壁刷油漆.java" />
+              <option name="titleSlug" value="painting-the-walls" />
             </LeetcodeEditor>
           </value>
         </entry>
