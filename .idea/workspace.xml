@@ -5,10 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a6f508-69bc-4d4e-94ca-03ff0af6c6a9" name="Changes" comment="【每日一题】 update">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[494]目标和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[494]目标和.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -121,7 +117,8 @@
       <workItem from="1718850156003" duration="2136000" />
       <workItem from="1719384991564" duration="8059000" />
       <workItem from="1719503335565" duration="4375000" />
-      <workItem from="1719556303051" duration="6547000" />
+      <workItem from="1719556303051" duration="6564000" />
+      <workItem from="1719899022160" duration="1858000" />
     </task>
     <task id="LOCAL-00001" summary="「每日一题」合并二叉树">
       <option name="closed" value="true" />
@@ -331,7 +328,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719687189151</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1719729494911</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1719729494911</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
