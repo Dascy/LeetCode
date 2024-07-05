@@ -38,7 +38,7 @@
 // Related Topics 数学 👍 18 👎 0
 
   
-   class HarshadNumber{
+class HarshadNumber{
       public static void main(String[] args) {
            Solution solution = new HarshadNumber().new Solution();
            solution.sumOfTheDigitsOfHarshadNumber(23);
