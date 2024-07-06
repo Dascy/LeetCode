@@ -47,23 +47,18 @@ class Solution {
     public int[][] modifiedMatrix(int[][] matrix) {
         int n = matrix.length;
         int m = matrix[0].length;
-        int[][] newMatrix =new int[n][m];
         for (int i = 0; i < m; i++) {
             int max =-1;
             for (int j = 0; j < n; j++) {
-                int num = matrix[j][i];
-                max=Math.max(max,num);
+                max=Math.max(max,matrix[j][i]);
             }
             for (int j = 0; j < n; j++) {
-                int num = matrix[j][i];
-                if (num==-1){
-                    newMatrix[j][i]=max;
-                }else {
-                    newMatrix[j][i]=num;
+                if (matrix[j][i]==-1){
+                    matrix[j][i]=max;
                 }
             }
         }
-        return newMatrix;
+        return matrix;
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
