@@ -49,7 +49,7 @@ import java.util.Arrays;
 class CountAlternatingSubarrays{
       public static void main(String[] args) {
            Solution solution = new CountAlternatingSubarrays().new Solution();
-           solution.countAlternatingSubarrays(new int[]{1,0,1,0});
+           solution.numberOfAlternatingGroups(new int[]{0,1,0,1,0},3);
       }
       //leetcode submit region begin(Prohibit modification and deletion)
 class Solution {
@@ -64,6 +64,58 @@ class Solution {
         }
         return sum;
     }
+          public int numberOfAlternatingGroups(int[] colors,int k) {
+              int n = colors.length;
+              int[] arr=new int[n+k-1];
+              for (int i = 0; i < k+n-1 ; i++) {
+                  if (i>=n){
+                      arr[i]=colors[i-n];
+                  }else {
+                      arr[i]=colors[i];
+                  }
+              }
+              int count=0;
+              int num=0;
+              int pre= colors[0];
+              for (int i = 0; i < arr.length; i++) {
+                  int now = arr[i];
+                  if (now!=pre){
+                      count++;
+                  }else {
+                      count=0;
+                  }
+                  if (count>=(k-1)){
+                      num++;
+                  }
+                  pre=now;
+              }
+              return num;
+
+          }
+
+          public int numberOfAlternatingGroups(int[] colors) {
+              int[] arr=new int[3];
+              int num =0;
+              for (int i = 0; i < colors.length; i++) {
+                  arr[0]=colors[i];
+                  if (i+1==colors.length){
+                      arr[1]=colors[0];
+                      arr[2]=colors[1];
+                  }else if (i+2==colors.length){
+                      arr[1]=colors[i+1];
+                     arr[2]=colors[0];
+                  }else {
+                      arr[1]=colors[i+1];
+                      arr[2]=colors[i+2];
+                  }
+                  if (arr[1]!=arr[2]&&arr[1]!=arr[0]){
+                      num++;
+                  }
+
+              }
+              return num;
+
+          }
 }
 //leetcode submit region end(Prohibit modification and deletion)
 
