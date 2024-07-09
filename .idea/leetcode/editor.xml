@@ -652,6 +652,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[68]文本左右对齐.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[68]文本左右对齐.md" />
+              <option name="frontendQuestionId" value="leetcode.cn68" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[68]文本左右对齐.java" />
+              <option name="titleSlug" value="text-justification" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[6]Z 字形变换.java">
           <value>
             <LeetcodeEditor>
