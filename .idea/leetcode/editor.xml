@@ -168,6 +168,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1633]各赛事的用户注册率.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1633]各赛事的用户注册率.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1633" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1633]各赛事的用户注册率.java" />
+              <option name="titleSlug" value="percentage-of-users-attended-a-contest" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[167]两数之和 II - 输入有序数组.java">
           <value>
             <LeetcodeEditor>
@@ -220,6 +231,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2085]统计出现过一次的公共字符串.java" />
               <option name="titleSlug" value="count-common-words-with-one-occurrence" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[209]长度最小的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[209]长度最小的子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn209" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[209]长度最小的子数组.java" />
+              <option name="titleSlug" value="minimum-size-subarray-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -451,6 +473,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java" />
               <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2970]统计移除递增子数组的数目 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2970]统计移除递增子数组的数目 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2970" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2970]统计移除递增子数组的数目 I.java" />
+              <option name="titleSlug" value="count-the-number-of-incremovable-subarrays-i" />
             </LeetcodeEditor>
           </value>
         </entry>
