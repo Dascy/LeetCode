@@ -5,22 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a6f508-69bc-4d4e-94ca-03ff0af6c6a9" name="Changes" comment="【每日一题】 update">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2972]统计移除递增子数组的数目 II.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2974]最小数字游戏.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3]无重复字符的最长子串.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2972]统计移除递增子数组的数目 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2974]最小数字游戏.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3]无重复字符的最长子串.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/CountTheNumberOfIncremovableSubarraysIi$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/CountTheNumberOfIncremovableSubarraysIi.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LongestSubstringWithoutRepeatingCharacters$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LongestSubstringWithoutRepeatingCharacters.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2972]统计移除递增子数组的数目 II.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[3]无重复字符的最长子串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2956]找到两个数组中的公共元素.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2956]找到两个数组中的公共元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/FindCommonElementsBetweenTwoArrays$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/FindCommonElementsBetweenTwoArrays.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumNumberGame$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumNumberGame.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2956]找到两个数组中的公共元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2974]最小数字游戏.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MinimumSizeSubarraySum$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumSizeSubarraySum$Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +65,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.CountTheNumberOfIncremovableSubarraysIi">
+  <component name="RunManager" selected="Application.FindCommonElementsBetweenTwoArrays">
     <configuration name="CountTheNumberOfIncremovableSubarraysI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountTheNumberOfIncremovableSubarraysI" />
       <module name="LeetCode" />
@@ -80,6 +75,13 @@
     </configuration>
     <configuration name="CountTheNumberOfIncremovableSubarraysIi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="CountTheNumberOfIncremovableSubarraysIi" />
+      <module name="LeetCode" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindCommonElementsBetweenTwoArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FindCommonElementsBetweenTwoArrays" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -99,20 +101,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoSumIiInputArrayIsSorted" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TwoSumIiInputArrayIsSorted" />
-      <module name="LeetCode" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindCommonElementsBetweenTwoArrays" />
         <item itemvalue="Application.CountTheNumberOfIncremovableSubarraysIi" />
         <item itemvalue="Application.LongestSubstringWithoutRepeatingCharacters" />
         <item itemvalue="Application.MinimumSizeSubarraySum" />
         <item itemvalue="Application.CountTheNumberOfIncremovableSubarraysI" />
-        <item itemvalue="Application.TwoSumIiInputArrayIsSorted" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +163,7 @@
       <workItem from="1720371948441" duration="2378000" />
       <workItem from="1720454433578" duration="1220000" />
       <workItem from="1720501927129" duration="12316000" />
-      <workItem from="1720545067234" duration="12568000" />
+      <workItem from="1720545067234" duration="14953000" />
     </task>
     <task id="LOCAL-00001" summary="「每日一题」合并二叉树">
       <option name="closed" value="true" />
@@ -482,7 +477,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720593868233</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1721092770406</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1721092770406</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
