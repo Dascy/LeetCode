@@ -57,6 +57,8 @@ class Node {
 };
 */
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
 
 class Solution1 {
@@ -72,6 +74,10 @@ class Solution1 {
             max= Math.max(chiledrenMax,max);
         }
         return max+1;
+    }
+
+    public static void main(String[] args) {
+
     }
 }
 //leetcode submit region end(Prohibit modification and deletion)
