@@ -25,6 +25,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1186]删除一次得到子数组最大和.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1186]删除一次得到子数组最大和.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1186" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1186]删除一次得到子数组最大和.java" />
+              <option name="titleSlug" value="maximum-subarray-sum-with-one-deletion" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[11]盛最多水的容器.java">
           <value>
             <LeetcodeEditor>
@@ -245,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2101]引爆最多的炸弹.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2101]引爆最多的炸弹.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2101" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2101]引爆最多的炸弹.java" />
+              <option name="titleSlug" value="detonate-the-maximum-bombs" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2171]拿出最少数目的魔法豆.java">
           <value>
             <LeetcodeEditor>
@@ -462,6 +484,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2809]使数组和小于等于 x 的最少时间.java" />
               <option name="titleSlug" value="minimum-time-to-make-array-sum-at-most-x" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2850]将石头分散到网格图的最少移动次数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2850]将石头分散到网格图的最少移动次数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2850" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2850]将石头分散到网格图的最少移动次数.java" />
+              <option name="titleSlug" value="minimum-moves-to-spread-stones-over-grid" />
             </LeetcodeEditor>
           </value>
         </entry>
