@@ -5,32 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b7a6f508-69bc-4d4e-94ca-03ff0af6c6a9" name="Changes" comment="【每日一题】 update">
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[1186]删除一次得到子数组最大和.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2101]引爆最多的炸弹.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[2850]将石头分散到网格图的最少移动次数.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1186]删除一次得到子数组最大和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2101]引爆最多的炸弹.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2850]将石头分散到网格图的最少移动次数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DetonateTheMaximumBombs$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/DetonateTheMaximumBombs.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MaximumSubarraySumWithOneDeletion$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MaximumSubarraySumWithOneDeletion.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumLevelsToGainMorePoints$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumLevelsToGainMorePoints.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumMovesToSpreadStonesOverGrid$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumMovesToSpreadStonesOverGrid.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumTimeToVisitDisappearingNodes$Solution.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumTimeToVisitDisappearingNodes.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[1186]删除一次得到子数组最大和.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2101]引爆最多的炸弹.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[2850]将石头分散到网格图的最少移动次数.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[3096]得到更多分数的最少关卡数目.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[3112]访问消失节点的最少时间.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[3106]满足距离约束且字典序最小的字符串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/[76]最小覆盖子串.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3098]求出所有子序列的能量和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3106]满足距离约束且字典序最小的字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[76]最小覆盖子串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LexicographicallySmallestStringAfterOperationsWithConstraint$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/LexicographicallySmallestStringAfterOperationsWithConstraint.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumWindowSubstring$Solution.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/MinimumWindowSubstring.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[3098]求出所有子序列的能量和.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[3106]满足距离约束且字典序最小的字符串.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/LeetCode/doc/content/[76]最小覆盖子串.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leetcode/editor/cn/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/editor/cn/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TreeNode.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/DetonateTheMaximumBombs$Solution.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/DetonateTheMaximumBombs$Solution.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +70,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.DetonateTheMaximumBombs">
+  <component name="RunManager" selected="Application.LexicographicallySmallestStringAfterOperationsWithConstraint">
     <configuration name="DetonateTheMaximumBombs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="DetonateTheMaximumBombs" />
       <module name="LeetCode" />
@@ -88,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MinimumLevelsToGainMorePoints" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MinimumLevelsToGainMorePoints" />
+    <configuration name="LexicographicallySmallestStringAfterOperationsWithConstraint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LexicographicallySmallestStringAfterOperationsWithConstraint" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,8 +92,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SubstringWithConcatenationOfAllWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SubstringWithConcatenationOfAllWords" />
+    <configuration name="MinimumWindowSubstring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MinimumWindowSubstring" />
       <module name="LeetCode" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -118,11 +108,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LexicographicallySmallestStringAfterOperationsWithConstraint" />
+        <item itemvalue="Application.MinimumWindowSubstring" />
         <item itemvalue="Application.DetonateTheMaximumBombs" />
         <item itemvalue="Application.TreeNode" />
         <item itemvalue="Application.MinimumMovesToSpreadStonesOverGrid" />
-        <item itemvalue="Application.MinimumLevelsToGainMorePoints" />
-        <item itemvalue="Application.SubstringWithConcatenationOfAllWords" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +170,8 @@
       <workItem from="1720501927129" duration="12316000" />
       <workItem from="1720545067234" duration="19359000" />
       <workItem from="1721184731631" duration="5262000" />
-      <workItem from="1721267094194" duration="24991000" />
+      <workItem from="1721267094194" duration="25046000" />
+      <workItem from="1721686443906" duration="6816000" />
     </task>
     <task id="LOCAL-00001" summary="「每日一题」合并二叉树">
       <option name="closed" value="true" />
@@ -526,7 +517,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721404834898</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="【每日一题】 update">
+      <option name="closed" value="true" />
+      <created>1721595850664</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1721595850664</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
