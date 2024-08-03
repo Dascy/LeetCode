@@ -1,0 +1,1 @@
+/** * @author dongjunzhi * @Title: Vertex * @ProjectName LeetCode * @Description: TODO * @create 2024/7/27 17:43 */public class Vertex {    int val;}
