@@ -3,6 +3,17 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[1035]不相交的线.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[1035]不相交的线.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1035" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[1035]不相交的线.java" />
+              <option name="titleSlug" value="uncrossed-lines" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[10]正则表达式匹配.java">
           <value>
             <LeetcodeEditor>
@@ -311,6 +322,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2278]字母在字符串中的百分比.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2278]字母在字符串中的百分比.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2278" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2278]字母在字符串中的百分比.java" />
+              <option name="titleSlug" value="percentage-of-letter-in-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2288]价格减免.java">
           <value>
             <LeetcodeEditor>
@@ -498,6 +520,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2873]有序三元组中的最大值 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2873]有序三元组中的最大值 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2873" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2873]有序三元组中的最大值 I.java" />
+              <option name="titleSlug" value="maximum-value-of-an-ordered-triplet-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java">
           <value>
             <LeetcodeEditor>
@@ -506,6 +539,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[28]找出字符串中第一个匹配项的下标.java" />
               <option name="titleSlug" value="find-the-index-of-the-first-occurrence-in-a-string" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[2940]找到 Alice 和 Bob 可以相遇的建筑.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[2940]找到 Alice 和 Bob 可以相遇的建筑.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2940" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[2940]找到 Alice 和 Bob 可以相遇的建筑.java" />
+              <option name="titleSlug" value="find-building-where-alice-and-bob-can-meet" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -696,6 +740,39 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3128]直角三角形.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3128]直角三角形.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3128" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3128]直角三角形.java" />
+              <option name="titleSlug" value="right-triangles" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3132]找出与数组相加的整数 II.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3132]找出与数组相加的整数 II.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3132" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3132]找出与数组相加的整数 II.java" />
+              <option name="titleSlug" value="find-the-integer-added-to-array-ii" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[3143]正方形中的最多点数.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[3143]正方形中的最多点数.md" />
+              <option name="frontendQuestionId" value="leetcode.cn3143" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[3143]正方形中的最多点数.java" />
+              <option name="titleSlug" value="maximum-points-inside-the-square" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[380]O(1) 时间插入、删除和获取随机元素.java">
           <value>
             <LeetcodeEditor>
@@ -817,6 +894,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[551]学生出勤记录 I.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[551]学生出勤记录 I.md" />
+              <option name="frontendQuestionId" value="leetcode.cn551" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[551]学生出勤记录 I.java" />
+              <option name="titleSlug" value="student-attendance-record-i" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/leetcode/editor/cn/[559]N 叉树的最大深度.java">
           <value>
             <LeetcodeEditor>
@@ -847,6 +935,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[56]合并区间.java" />
               <option name="titleSlug" value="merge-intervals" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[572]另一棵树的子树.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[572]另一棵树的子树.md" />
+              <option name="frontendQuestionId" value="leetcode.cn572" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[572]另一棵树的子树.java" />
+              <option name="titleSlug" value="subtree-of-another-tree" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -891,6 +990,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[68]文本左右对齐.java" />
               <option name="titleSlug" value="text-justification" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/leetcode/editor/cn/[699]掉落的方块.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="$PROJECT_DIR$/leetcode/editor/cn/doc/content/[699]掉落的方块.md" />
+              <option name="frontendQuestionId" value="leetcode.cn699" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="$PROJECT_DIR$/leetcode/editor/cn/[699]掉落的方块.java" />
+              <option name="titleSlug" value="falling-squares" />
             </LeetcodeEditor>
           </value>
         </entry>
